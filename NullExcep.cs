@@ -10,7 +10,7 @@ namespace Exception_Notes
     {
         public static void Main(string[] args)
         {
-            //string name = "Nitish Mehta";
+            //string name = "Nitish Mehta"; /
             //Console.WriteLine(name.Length);
             //Console.ReadLine();
             try
